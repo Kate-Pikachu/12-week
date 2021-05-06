@@ -145,12 +145,14 @@
     <ClCompile Include="link.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="particle.cpp" />
+    <ClCompile Include="pressure.cpp" />
     <ClCompile Include="system.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.hpp" />
     <ClInclude Include="link.hpp" />
     <ClInclude Include="particle.hpp" />
+    <ClInclude Include="pressure.hpp" />
     <ClInclude Include="system.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
